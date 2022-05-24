@@ -4,8 +4,8 @@
 
 ### atividades
 
-1. [Transitiions1]()
-2. [Transitiions2]()
+1. [Transitions1]()
+2. [Transitions2]()
 
 
 ### projetos
