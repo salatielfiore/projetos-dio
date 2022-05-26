@@ -18,6 +18,7 @@
 ### atividades Front-end (javascript)
 
 1. [aula 1 - contador](https://github.com/salatielfiore/projetos-dio/tree/master/contador)
+2. [aula 2 - to-do list](https://github.com/salatielfiore/projetos-dio/tree/master/to-do_list)
 
 
 [Site da dio](https://www.dio.me/)
