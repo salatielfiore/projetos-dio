@@ -21,4 +21,9 @@
 2. [aula 2 - to-do list](https://github.com/salatielfiore/projetos-dio/tree/master/to-do_list)
 
 
+### projetos Front-end (javascript)
+
+1. [projeto jogo da memória](https://github.com/salatielfiore/projetos-dio/tree/master/jogo_da_memoria)
+
+
 [Site da dio](https://www.dio.me/)
