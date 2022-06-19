@@ -26,4 +26,9 @@
 1. [projeto jogo da memória](https://github.com/salatielfiore/projetos-dio/tree/master/jogo_da_memoria)
 
 
+### projetos Front-end (ReactJs)
+
+1. [naruto quotes front](https://github.com/salatielfiore/projetos-dio/tree/master/naruto-quotes-front)
+
+
 [Site da dio](https://www.dio.me/)
