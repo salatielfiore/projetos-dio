@@ -26,6 +26,10 @@
 1. [projeto jogo da memória](https://github.com/salatielfiore/projetos-dio/tree/master/jogo_da_memoria)
 
 
+### atividades Front-end (ReactJs)
+
+1. [aula 1 - React Hooks](https://github.com/salatielfiore/projetos-dio/tree/master/aula-hooks)
+
 ### projetos Front-end (ReactJs)
 
 1. [naruto quotes front](https://github.com/salatielfiore/projetos-dio/tree/master/naruto-quotes-front)
